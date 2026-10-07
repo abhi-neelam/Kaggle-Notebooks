@@ -1,2 +1,4 @@
 *.json
 *.parq
+*.ckpt
+*.zip
